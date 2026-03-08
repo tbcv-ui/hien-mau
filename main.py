@@ -3,9 +3,9 @@ from PyQt6.QtWidgets import QApplication, QMainWindow, QMessageBox, QTableWidget
 from PyQt6 import uic
 
 # Nhập các lớp từ 3 file backend của chúng ta
-from donor import Donor
-from blood_bank import BloodBank
-from coordinator import Coordinator
+from Cnguoihien import Donor
+from Cdsnguoihien import BloodBank
+from Dieuphoi import Coordinator
 
 
 class BloodBankApp(QMainWindow):
