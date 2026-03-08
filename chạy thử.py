@@ -250,3 +250,7 @@ if __name__ == "__main__":
     window = BloodBankApp()
     window.show()
     sys.exit(app.exec())
+
+
+
+    nhom10-10dim
